@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ali Asghari 👋
 
-<!--
-**aliasgharidev/Aliasgharidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack PHP Developer specializing in:
 
-Here are some ideas to get you started:
+- Laravel
+- PHP
+- WordPress
+- WooCommerce
+- Elementor
+- MySQL
+- Linux Server Administration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+
+- Build custom web applications
+- Develop and customize WordPress websites
+- Fix complex bugs
+- Optimize website performance
+- Configure servers and hosting environments
+
+## Technologies
+
+PHP • Laravel • WordPress • MySQL • JavaScript • Linux
