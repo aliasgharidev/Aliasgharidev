@@ -20,4 +20,4 @@ I'm a Full Stack PHP Developer specializing in:
 
 ## Technologies
 
-PHP • Laravel • WordPress • MySQL • JavaScript • Linux
+PHP • Laravel • WordPress • Html • Css • MySQL • JavaScript • Linux
