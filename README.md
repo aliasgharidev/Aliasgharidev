@@ -21,3 +21,10 @@ I'm a Full Stack PHP Developer specializing in:
 ## Technologies
 
 PHP • Laravel • WordPress • HTML • CSS • JavaScript • MySQL • Linux
+
+## Contact
+
+📧 Email: ali.asghari.dev@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/ali-asghari-18a6b819a
